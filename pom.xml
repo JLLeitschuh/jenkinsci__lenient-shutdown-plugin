@@ -68,7 +68,7 @@
         </repository>
         <repository>
             <id>powermock-repo</id>
-            <url>http://powermock.googlecode.com/svn/repo/</url>
+            <url>https://powermock.googlecode.com/svn/repo/</url>
         </repository>
     </repositories>
 
